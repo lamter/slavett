@@ -106,3 +106,4 @@ ENV/
 # Project
 tmp/
 .gitignore
+conf/
